@@ -1,0 +1,9 @@
+*.class
+*.zip
+*.txt
+*.idea
+Assignments
+Exercises
+*.docx
+*.iml
+out
