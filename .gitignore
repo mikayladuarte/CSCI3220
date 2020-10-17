@@ -7,3 +7,5 @@ Exercises
 *.docx
 *.iml
 out
+*.pdf
+.DS_Store
